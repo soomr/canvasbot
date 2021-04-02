@@ -9,4 +9,6 @@ Instructions:
 ex.![image](https://user-images.githubusercontent.com/52680308/113430046-7c599800-93a7-11eb-8f35-088b1e8ca4a3.png)
 6. wait
 
+Download:
+https://github.com/soomr/canvasbot/releases/latest
 
