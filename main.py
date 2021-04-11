@@ -2,7 +2,7 @@ import keyboard
 import PySimpleGUI as sg
 import time
 def answer(x):
-    ans_to_int = ['A','B','C','D']
+    ans_to_int = ['A','B','C','D','E']
     ans = ans_to_int.index(x)
     time.sleep(.5)
     keyboard.send('tab')
