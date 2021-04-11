@@ -20,7 +20,7 @@ layout = [
             [sg.Button('Ok'), sg.Button('Cancel'), sg.Button('Start')] ]
 
 # Create the Window
-ans_to_int = ['A','B','C','D']
+ans_to_int = ['A','B','C','D','E']
 window = sg.Window('Canvas Bot', layout)
 clean_list = []
 # Event Loop to process "events" and get the "values" of the inputs
