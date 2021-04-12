@@ -9,7 +9,7 @@ This pythons script automatically fills out answers for canvas quizzes. It handl
 
 ### Installing
 
-https://github.com/soomr/canvasbot/releases/latest  
+Open https://github.com/soomr/canvasbot/releases/latest  
 Install main.exe
 
 ## Usage <a name = "usage"></a>
